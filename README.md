@@ -6,6 +6,8 @@
 
 ![Gabxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsnotgabxx&show_icons=true&theme=midnight-purple)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsnotgabxx&theme=midnight-purple&layout=compact)
+
 ### Minhas tecnologias 👩🏻‍💻
 
 <div style="display: inline_block"><br/>
