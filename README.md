@@ -1,8 +1,8 @@
-## Olá, aqui é a Gaby ✌️
+# Olá, aqui é a Gaby ✌️
 
 ## 💻 Engenheira de Software Backend
 
-###🎓 Ciência da Computação
+### 🎓 Ciência da Computação
 
 Sou engenheira de software backend, com foco no desenvolvimento de sistemas escaláveis, bem estruturados e orientados a boas práticas.
 
