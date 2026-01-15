@@ -1,14 +1,17 @@
 ## Olá, aqui é a Gaby ✌️
 
-### 👩🏻‍🎓🎓 Ciência da Computação UDF.
+## 💻 Engenheira de Software Backend
 
-Estou me formando em Ciência da Computação e sou uma desenvolvedora apaixonada por transformar ideias em soluções digitais!
+###🎓 Ciência da Computação
 
-Ao longo da minha trajetória, já trabalhei com desenvolvimento full stack, web scraping, automação de processos e desenvolvimento web. Além de projetos acadêmicos e pessoais.
+Sou engenheira de software backend, com foco no desenvolvimento de sistemas escaláveis, bem estruturados e orientados a boas práticas.
 
-Sou dedicada e proativa: se me der uma missão/atividade que eu não saiba, vou buscar aprender como faze-la até atingir o resultado esperado.
+Atualmente, trabalho principalmente com Kotlin e Go, desenvolvendo soluções backend performáticas. Mas ao longo da minha trajetória, também atuei com Java (Spring) e Python, além de experiências com desenvolvimento full stack, web scraping, automação de processos e desenvolvimento web em projetos profissionais, acadêmicos e pessoais.
 
-Quer saber mais sobre o que posso oferecer para o seu projeto ou empresa? Fique à vontade para entrar em contato pelos links no meu perfil!
+Sou dedicada e proativa: quando enfrento um desafio que ainda não domino, busco aprender, testar e evoluir até entregar o resultado esperado, sempre com responsabilidade técnica.
+
+Quer saber mais sobre o que posso agregar ao seu projeto ou empresa?
+Fique à vontade para entrar em contato pelos links do meu perfil!
 
 --------
 
@@ -16,17 +19,21 @@ Quer saber mais sobre o que posso oferecer para o seu projeto ou empresa? Fique 
 
 -------
 
-## Hello, Gaby here ✌️
+# Hello, Gaby here ✌️
 
-### 👩🏻‍🎓🎓 Computer Science UDF.
+## 💻 Backend Software Engineer
 
-I'm graduating in Computer Science and I'm a developer with a passion for turning ideas into digital solutions!
+### 🎓 Computer Science
 
-Throughout my career, I've worked with full stack development, web scraping, process automation and web development. As well as academic and personal projects.
+I’m a backend software engineer, focused on building scalable, well-structured, and maintainable systems.
 
-I'm dedicated and proactive: if you give me a mission/activity that I don't know, I'll try to learn how to do it until I achieve the expected result.
+I currently work mainly with Kotlin and Go, building modern and high-performance backend systems.
+Throughout my career, I’ve also worked with Java (Spring) and Python, as well as full stack development, web scraping, process automation, and web development across professional, academic, and personal projects.
 
-Want to know more about what I can offer your project or company? Feel free to get in touch via the links in my profile!
+I’m dedicated and proactive: when facing a challenge I don’t yet master, I actively learn, experiment, and improve until delivering reliable results with strong technical ownership.
+
+Interested in what I can bring to your project or company?
+Feel free to reach out through the links on my profile!
 
 -------
 
